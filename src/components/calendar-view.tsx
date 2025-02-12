@@ -295,10 +295,7 @@ export function CalendarView() {
           timeslots={1}
           min={new Date(0, 0, 0, 9, 0, 0)}
           max={new Date(0, 0, 0, 21, 0, 0)}
-          onSelectEvent={(
-            event: object,
-            e: SyntheticEvent<HTMLElement, Event>
-          ) => handleSelectEvent(event as CalendarEvent)}
+          onSelectEvent={(event: object) => handleSelectEvent(event as CalendarEvent)}
           onEventDrop={(args) =>
             handleEventDrop({
               event: args.event as CalendarEvent,
