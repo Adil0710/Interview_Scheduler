@@ -2,17 +2,17 @@
 
 A web-based interview scheduling system that allows users to set up, update, and cancel interviews with email notifications.
 
-## 🚀 Features
-- Schedule interviews with date and time selection.
-- Drag-and-drop rescheduling.
-- Email notifications using EmailJS.
-- Overlap Solutions for same interviewer in time slot
+
 ## 🖥️ Demo
 
 
 https://github.com/user-attachments/assets/b61c5d95-0de7-4e39-a564-7c765bb8fc8a
 
-
+## 🚀 Features
+- Schedule interviews with date and time selection.
+- Drag-and-drop rescheduling.
+- Email notifications using EmailJS.
+- Overlap Solutions for same interviewer in time slot
 
 ## 🛠️ Setup Instructions
 
