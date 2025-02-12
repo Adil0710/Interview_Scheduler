@@ -31,7 +31,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { useState, SyntheticEvent } from "react";
+import { useState } from "react";
 import {
   Select,
   SelectContent,
